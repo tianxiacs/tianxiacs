@@ -6,12 +6,12 @@ My first degree is in Sociology and Criminology from University of Saskatchewan.
 
 Here are some mildly fun facts:
 
-- 🔭 I’m currently working on school and side projects
-- 🌱 I’m currently learning React and React Native
-- 💬 Ask me about side project collaboration
-- 📫 How to reach me: tian.xia2@ucalgary.ca
-- 😄 Interests: Web dev, HCI, theories and Digital Humanity
-- 🎯 Freelance project: 
+- 🔭  I’m currently working on school and side projects
+- 🌱  I’m currently learning React and React Native
+- 💬  Ask me about side project collaboration
+- 📫  How to reach me: tian.xia2@ucalgary.ca
+- 😄  Interests: Web dev, HCI, theories and Digital Humanity
+- 🎯  Freelance project: 
      (Soon to deploy)
      Greek House Restaurant in Saskatoon, SK
      https://thegreekhouse.netlify.app
