@@ -1,16 +1,19 @@
-### Hi there 👋
+# Greetings! 👋
 
-<!--
-**tianxiacs/tianxiacs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an after-degree student in Computer Science at University of Calgary. I am passionate about human-computer interaction, web development, CS theories and digital humanity. I am also the VP External of Developer Student Club at UCalgary. 
 
-Here are some ideas to get you started:
+My first degree is in Sociology and Criminology from University of Saskatchewan. I spent three years working in two Canadian provincial governments in the field of social and community services.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Here are some mildly fun facts:
+
+- 🔭 I’m currently working on school and side projects
+- 🌱 I’m currently learning React and React Native
+- 💬 Ask me about side project collaboration
+- 📫 How to reach me: tian.xia2@ucalgary.ca
+- 😄 Interests: Web dev, HCI, theories and Digital Humanity
+- 🎯 Freelance project: 
+     (Soon to deploy)
+     Greek House Restaurant in Saskatoon, SK
+     https://thegreekhouse.netlify.app
+     
 -->
