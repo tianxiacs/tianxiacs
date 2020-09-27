@@ -1,6 +1,6 @@
 # Greetings! 👋
 
-I am an after-degree student in Computer Science at University of Calgary. I am passionate about human-computer interaction, web development, CS theories and digital humanity. I am also the VP External of Developer Student Club at UCalgary. 
+I am an after-degree student in Computer Science at University of Calgary. I am passionate about web development, human-computer interaction, and digital humanity. I am also the VP External of Developer Student Club at UCalgary. 
 
 My first degree is in Sociology and Criminology from University of Saskatchewan. I spent three years working in the field of social and community services in two Canadian provincial governments.
 
