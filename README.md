@@ -1,6 +1,6 @@
 # Greetings! 👋
 
-I am an after-degree student in Computer Science at University of Calgary. I am passionate about web development, human-computer interaction, and digital humanity. I am also the VP External of Developer Student Club at UCalgary. 
+I aComputer Science student at University of Calgary. I am passionate about web development, human-computer interaction, and digital humanity. I am also the VP External of Google Developer Student Club at UCalgary. 
 
 Here are some mildly fun facts:
 
