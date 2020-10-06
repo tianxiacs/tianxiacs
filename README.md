@@ -9,7 +9,6 @@ Here are some mildly fun facts:
 - 💬  I’m currently learning React and React Native
 - 📫  How to reach me: tian.xia2@ucalgary.ca
 - 😄  Interests: Web dev, HCI, theories and Digital Humanity
-- 🎯  Freelance project: 
-     (Soon to deploy)
+- 🎯  Freelance project:
      Greek House Restaurant in Saskatoon, SK
      https://thegreekhouse.netlify.app
